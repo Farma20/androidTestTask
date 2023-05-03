@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test_task</string>
+    <string name="all_posts_activity_label">Все посты</string>
+    <string name="current_post">Пост</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
